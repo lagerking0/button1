@@ -5,7 +5,7 @@ import { Provider, LikeButton } from "@lyket/react";
   theme={{
     colors: {
       background: "#b8fff3",
-      text: "violet",
+      text: "white",
       primary: "rgba(255, 224, 138, 0.4)"
     }
   }}
